@@ -1,0 +1,88 @@
+{
+  "bookmarkCollection": [
+    {
+      "id": "01",
+      "title": "HTML",
+      "links": [
+        {
+          "id": "04",
+          "title": "W3Schools for HTML",
+          "link": "https://www.w3schools.com/html/"
+        },
+        {
+          "id": "06",
+          "title": "HTML.net",
+          "link": "http://html.net/"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "CSS",
+      "links": [
+        {
+          "id": "07",
+          "title": "W3Schools for CSS",
+          "link": "https://www.w3schools.com/css/"
+        },
+        {
+          "id": "08",
+          "title": "CodeCademy Learn CSS",
+          "link": "https://www.codecademy.com/learn/learn-css"
+        },
+        {
+          "id": "09",
+          "title": "CSS with MDN Web Docs",
+          "link": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "JavaScript",
+      "links": [
+        {
+          "id": "10",
+          "title": "W3Schools for JavaScript",
+          "link": "https://www.w3schools.com/js/"
+        },
+        {
+          "id": "11",
+          "title": "CodeCademy Leanr JavaScript",
+          "link": "https://www.codecademy.com/learn/introduction-to-javascript"
+        },
+        {
+          "id": "12",
+          "title": "JavaScript.Info Tutorial",
+          "link": "https://javascript.info/"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "YouTube",
+      "links": [
+        {
+          "id": "14",
+          "title": "HTML Crush Course",
+          "link": "https://www.youtube.com/watch?v=UB1O30fR-EE"
+        },
+        {
+          "id": "15",
+          "title": "CSS Crush Course",
+          "link": "https://www.youtube.com/watch?v=yfoY53QXEnI"
+        },
+        {
+          "id": "16",
+          "title": "JavaScript Crush Course",
+          "link": "https://www.youtube.com/watch?v=PwsigsH4oXw"
+        }
+      ]
+    },
+    {
+      "id": "b7a249de-ebf5-48cb-9137-64eb06293b24",
+      "title": "Make Up",
+      "links": []
+    }
+  ]
+}

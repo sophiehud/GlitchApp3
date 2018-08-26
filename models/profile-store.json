@@ -1,0 +1,18 @@
+{
+  "profiles": [
+    {
+      "firstName": "Sophie",
+      "lastName": "Hud",
+      "email": "ssh@gmail.com",
+      "password": "s",
+      "id": "7cc0700f-b9cf-458b-8772-28e43e5c20c6"
+    },
+    {
+      "firstName": "Sophie",
+      "lastName": "Hud",
+      "email": "ssh@hotmail.com",
+      "password": "s",
+      "id": "31018f74-b5fb-4a1a-bc3e-18cb42013952"
+    }
+  ]
+}
